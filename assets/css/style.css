@@ -64,7 +64,7 @@ header nav ul li a {
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-header nav ul li a: hover {
+header nav ul li a:hover {
     background: var(--primary-color);
     color: var(--secondary-color);
     border-radius: 15px;
