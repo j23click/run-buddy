@@ -83,7 +83,6 @@ footer {
     justify-content: space-between;
     flex-wrap: wrap;
     width: 100%;
-    padding: 40px 35px;
 }
 
 footer h2 {
@@ -219,10 +218,6 @@ section {
     border-radius: 50%;
 }
 
-.radio-wrapper label::after{
-    border-radius: 50%;
-}
-
 .radio-wrapper label::after {
     content: "";
     height: 20px;
@@ -235,7 +230,7 @@ section {
     background-image: radial-gradient(circle, var(--tertiary-color), var(--secondary-color));
 }
 
-.checkbox-wrapper label:: after {
+.checkbox-wrapper label::after {
     content: "";
     height: 6px;
     width: 14px;
